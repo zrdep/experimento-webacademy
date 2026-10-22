@@ -1,3 +1,5 @@
 1 - Churrasco
 2 - Lasanha 
 3 - Panqueca
+4 - Sucos
+5 - Sorvete
